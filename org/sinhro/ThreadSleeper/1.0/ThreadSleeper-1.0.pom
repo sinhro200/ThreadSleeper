@@ -8,6 +8,10 @@
     <artifactId>ThreadSleeper</artifactId>
     <version>1.0</version>
 
+    <properties>
+        <github.global.server>github</github.global.server>
+    </properties>
+
     <distributionManagement>
         <repository>
             <id>internal.repo</id>
